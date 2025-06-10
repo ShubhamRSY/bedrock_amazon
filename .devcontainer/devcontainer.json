@@ -1,0 +1,14 @@
+{
+  "name": "Amazon Bedrock Learning",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "amazonwebservices.aws-toolkit-vscode",
+        "ms-python.python"
+      ]
+    }
+  },
+  "remoteUser": "codespace"
+}
